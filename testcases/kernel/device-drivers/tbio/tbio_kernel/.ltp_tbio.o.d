@@ -1,5 +1,5 @@
 ltp_tbio.o: \
- /home/dingjing/ltp-20190930/testcases/kernel/device-drivers/tbio/tbio_kernel/ltp_tbio.c \
+ /data/code/read_ltp/testcases/kernel/device-drivers/tbio/tbio_kernel/ltp_tbio.c \
  include/linux/kconfig.h include/generated/autoconf.h \
  include/linux/compiler_types.h include/linux/compiler-gcc.h \
  include/linux/module.h include/linux/list.h include/linux/types.h \
@@ -231,4 +231,4 @@ ltp_tbio.o: \
  include/uapi/linux/bsg.h include/linux/scatterlist.h \
  include/uapi/linux/blkzoned.h include/linux/elevator.h \
  include/linux/hashtable.h include/linux/buffer_head.h \
- /home/dingjing/ltp-20190930/testcases/kernel/device-drivers/tbio/tbio_kernel/tbio.h
+ /data/code/read_ltp/testcases/kernel/device-drivers/tbio/tbio_kernel/tbio.h

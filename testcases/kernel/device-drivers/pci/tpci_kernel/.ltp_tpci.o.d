@@ -1,5 +1,5 @@
 ltp_tpci.o: \
- /home/dingjing/ltp-20190930/testcases/kernel/device-drivers/pci/tpci_kernel/ltp_tpci.c \
+ /data/code/read_ltp/testcases/kernel/device-drivers/pci/tpci_kernel/ltp_tpci.c \
  include/linux/kconfig.h include/generated/autoconf.h \
  include/linux/compiler_types.h include/linux/compiler-gcc.h \
  include/linux/types.h include/uapi/linux/types.h \
@@ -231,4 +231,4 @@ ltp_tpci.o: \
  include/linux/dma-debug.h include/linux/dma-direction.h \
  arch/x86/include/asm/dma-mapping.h arch/x86/include/asm/swiotlb.h \
  include/linux/swiotlb.h include/linux/dma-contiguous.h \
- /home/dingjing/ltp-20190930/testcases/kernel/device-drivers/pci/tpci_kernel/tpci.h
+ /data/code/read_ltp/testcases/kernel/device-drivers/pci/tpci_kernel/tpci.h

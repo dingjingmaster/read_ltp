@@ -1,5 +1,5 @@
 dummy_del_mod.o: \
- /home/dingjing/ltp-20190930/testcases/kernel/syscalls/delete_module/dummy_del_mod.c \
+ /data/code/read_ltp/testcases/kernel/syscalls/delete_module/dummy_del_mod.c \
  include/linux/kconfig.h include/generated/autoconf.h \
  include/linux/compiler_types.h include/linux/compiler-gcc.h \
  include/linux/module.h include/linux/list.h include/linux/types.h \
